@@ -1,6 +1,6 @@
 # Science+ Website
 
-Home to all the revolutionizing learning tools
+Home to all the revolutionizing learning tools.
 
 ## Developing
 
